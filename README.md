@@ -9,5 +9,5 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div> -->
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazerk01&count_private=true&hide=stars,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mazerk01&count_private=true&hide=stars,contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
